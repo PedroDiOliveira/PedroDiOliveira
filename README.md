@@ -1,8 +1,5 @@
 # Hello World, I'm Pedro, be very welcome 👋
 
-## Sobre Mim
-- Entusiasta da tecnologia, tenho um grande apreço pela área de engenharia de software. No entanto, minha curiosidade me conduz a explorar diferentes áreas e tecnologias diariamente.
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroDiOliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDiOliveira&layout=compact&langs_count=6&theme=tokyonight"/>
