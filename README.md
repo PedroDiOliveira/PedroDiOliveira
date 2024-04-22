@@ -1,8 +1,8 @@
 # Hello World, I'm Pedro, be very welcome 👋
 
-##Sobre mim
+## Sobre mim
 
--Entusiasta da tecnologia, tenho um grande apreço pela
+- Entusiasta da tecnologia, tenho um grande apreço pela
 área de engenharia de software. No entanto, minha
 curiosidade me conduz a explorar diferentes áreas e
 tecnologias diariamente.
