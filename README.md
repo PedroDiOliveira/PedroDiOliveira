@@ -12,8 +12,8 @@
 </table>
 
 ## Linguagens e Tecnologias
-![Golang](https://img.icons8.com/color/48/000000/golang.png) Golang
-![Python](https://img.icons8.com/color/48/000000/python.png) Python
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+![Golang](https://img.icons8.com/color/48/000000/golang.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![HTML](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
