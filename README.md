@@ -13,7 +13,7 @@
 
 I build backend systems and product-grade web applications, with a focus on distributed architectures and event-driven design. Currently shipping two SaaS products from the ground up — handling everything from system architecture to frontend implementation.
 
-By day, I work at [Singular GovTech](https://singular.tec.br/) integrating APIs and building automations for public sector workflows. By night, I'm a founder.
+By day, I work at [Singular GovTech](https://singular.app) integrating APIs and building automations for public sector workflows. By night, I'm a founder.
 
 ---
 
@@ -65,12 +65,3 @@ B2B inventory and stock control platform built for operational scale. The backen
 **PluralOrto**
 
 Full-featured SaaS for dental clinics — scheduling, patient records, and billing in a single platform. Built with Angular, Go, and PostgreSQL. The product targets mid-sized clinics in underserved Brazilian regions where off-the-shelf solutions are either too expensive or too generic.
-
----
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=PedroDiOliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDiOliveira&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117"/>
-
-</div>
