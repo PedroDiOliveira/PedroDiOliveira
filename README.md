@@ -13,7 +13,7 @@
 
 I build backend systems and product-grade web applications, with a focus on distributed architectures and event-driven design. Currently shipping two SaaS products from the ground up — handling everything from system architecture to frontend implementation.
 
-By day, I work at [Singular GovTech](https://singular.app) integrating APIs and building automations for public sector workflows. By night, I'm a founder.
+By day, I work at [Singular GovTech](https://singular.tec.br/) integrating APIs and building automations for public sector workflows. By night, I'm a founder.
 
 ---
 
